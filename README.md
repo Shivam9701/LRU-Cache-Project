@@ -12,4 +12,4 @@ This Cache uses C++ as it's Foundation and has the following features
 - Get Most Recent Key Value
 
 ## How to Use 
-- A positive number between (0-10^5) as max size of the Cache
+- Enter a positive number between (0-10^5) as max size of the Cache upon prompt.
