@@ -1,5 +1,5 @@
 # LRU-Cache-Project
-A cache that deletes the least-recently-used item upon max filling.
+A cache that deletes the least-recently-used item upon being filled to its capacity.
 ![LRU-Cache Depiction](https://files.realpython.com/media/cache_internal_representation_1.6fdd3a39fa28.png)
 
 Specify a max number of the most recently used items that you want to keep, and this cache will keep that many of the most recently accessed items.
