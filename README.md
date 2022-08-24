@@ -13,3 +13,10 @@ This Cache uses C++ as it's Foundation and has the following features
 
 ## How to Use 
 - Enter a positive number between (0-10^5) as max size of the Cache upon prompt.
+- From the Menu choose appropriate Option
+
+## Options
+- Option 1 :Create a new item to be stored in the Cache (upon which LRU item to be deleted) 
+- Option 2 :Check whether an item is present in the Cache at current moment 
+- Option 3 :Get the most Recently Used item 
+- Option 0: Exit 
