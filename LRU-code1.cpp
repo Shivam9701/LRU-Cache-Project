@@ -47,7 +47,7 @@ class LRUCache{
             Node n(key,val);
             l.push_front(n);                         //Key value added to Cache as MRU pair
             list <Node>::iterator it=l.begin();
-            um[key]=it;                              // Address of new pair being added to Cache hashmap
+            um[key]=it;                              // Address of new pair being added to Cache hashmaps
 
        
         }
